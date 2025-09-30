@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 سلام! من [مهدی اسماعیلی ]
 
-<!--
-**Mahdighti/mahdighti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 علاقه‌مند به طراحی گرافیک و طراحی وب  
+💻 برنامه‌نویس تازه‌کار در پایتون  
+🚀 ترکیب مهارت‌ها با ابزارهای هوش مصنوعی  
 
-Here are some ideas to get you started:
+## 📂 نمونه پروژه‌ها
+- [Python Calculator (CLI + GUI)](https://github.com/Mahdighti/python_calculator/blob/main/calcutator%20s.py) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 ارتباط با من
+- [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+- [Email](mahdi.esmaeeli2009@gmail.com) 
+
